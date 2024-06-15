@@ -248,7 +248,7 @@
             <td align="center">15h</td>
             <td align="center">
                 <a href="https://cursos.alura.com.br/user/amanda-ribeiro98/course/praticando-front-end-challenge-alurageek/certificate" target="_blank">
-                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/user/amanda-ribeiro98/course/praticando-front-end-challenge-alurageek/certificate)>
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/user/amanda-ribeiro98/course/praticando-front-end-challenge-alurageek/certificate">
                 </a>
             </td>
           </tr>
